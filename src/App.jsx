@@ -24,7 +24,9 @@ function App() {
         <div className="col-md-4">
           <Login title="User Login Page" backgroundColor="lightBlue" />
         </div>
-        <div className="col-md-4"></div>
+        <div className="col-md-4">
+          this is another column
+        </div>
       </div>
       
       <br/>
